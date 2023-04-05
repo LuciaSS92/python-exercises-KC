@@ -1,4 +1,7 @@
-## Solución Canónica de Procesamiento de una Matriz
+## Solución de Procesamiento de una Matriz
+
+## matrix.py 
+
 Tenemos que crear la función process_matrix que recibe una matriz de números y procesa cada uno de ellas de la siguiente manera:
 
 El nuevo valor de cada uno de ellos es el promedio del valor antiguo y los valores de sus vecinos.
